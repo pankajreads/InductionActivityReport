@@ -1,7 +1,8 @@
 ### Pankaj Kumar   
 ### Btech CSE student  
 ### Guru Nanak Dev Engineering college 
-## InductionActivityReport
+## InductionActivityReport  
+  
 | Date         | Guest                     | Lesson                                                                                   |
 |--------------|---------------------------|------------------------------------------------------------------------------------------|
 | 10 July 2024 | Er. Jiwandeep Singh       | Look for opportunity and grab it. Consume long form content. Identify your passion asap. |
@@ -18,3 +19,5 @@
 |              |                           |                                                                                          |
 |              |                           |                                                                                          |
 |              |                           |                                                                                          |
+
+    
