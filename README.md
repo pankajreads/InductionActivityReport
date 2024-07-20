@@ -1,5 +1,5 @@
 # [**Pankaj Kumar**](https://www.linkedin.com/in/pankaj-kumar-20186a303/) 
-![Pankaj](‪Screenshot 2024-05-07 090556.png)
+![Pankaj](pankaj.png)
 ## **BTech CSE Student**  
 ## [**Guru Nanak Dev Engineering College**](https://www.gndec.ac.in/)  
 
