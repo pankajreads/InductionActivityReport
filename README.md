@@ -1,9 +1,9 @@
-### Pankaj Kumar   
-### Btech CSE student  
-### Guru Nanak Dev Engineering college 
+**Pankaj Kumar**  
+**BTech CSE Student**  
+**Guru Nanak Dev Engineering College**  
+
 ## InductionActivityReport  
 
-    
 | Date         | Guest                     | Lesson                                                                                   |
 |:------------:|:-------------------------:|:----------------------------------------------------------------------------------------:|
 | 10 July 2024 | Pr.  Dr.Sehijpal Singh | He welcomed us to the beautiful GNDEC campus, introducing us to its stunning surroundings. The chief guest was also warmly received. Together, we explored the vibrant and inspiring environment of the college.|
