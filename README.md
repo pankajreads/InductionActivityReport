@@ -1,6 +1,7 @@
 # [**Pankaj Kumar**](https://www.linkedin.com/in/pankaj-kumar-20186a303/) 
-<img src="" alt="Example Image" width="300" height="200">
-## **BTech CSE Student**  
+<img src="pankaj.png" alt="How am I looking" width="230" height="200">  
+
+## **BTech CSE Student**    
 ## [**Guru Nanak Dev Engineering College**](https://www.gndec.ac.in/)  
 
 ### Induction Activity Report  
