@@ -1,5 +1,5 @@
 # [**Pankaj Kumar**](https://www.linkedin.com/in/pankaj-kumar-20186a303/) 
-![Pankaj](‪https://instagram.fluh1-3.fna.fbcdn.net/v/t51.2885-19/402519703_864678195058333_4816934405527221366_n.jpg?_nc_ht=instagram.fluh1-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dO3vJN0roUEQ7kNvgGuElM_&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYAhqK74Xwo-SflIneFoa8XZqH1RQKcEBjyOUI1D8bymAA&oe=66A11FAA&_nc_sid=8f1549)
+![Pankaj](‪https://github.com/pankajreads/InductionActivityReport/blob/main/Screenshot%202024-05-07%20090556.png)
 ## **BTech CSE Student**  
 ## [**Guru Nanak Dev Engineering College**](https://www.gndec.ac.in/)  
 
