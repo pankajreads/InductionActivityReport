@@ -1,5 +1,5 @@
 # [**Pankaj Kumar**](https://www.linkedin.com/in/pankaj-kumar-20186a303/) 
-![Pankaj](‪https://github.com/pankajreads/InductionActivityReport/blob/main/Screenshot%202024-05-07%20090556.png)
+![Pankaj](‪Screenshot 2024-05-07 090556.png)
 ## **BTech CSE Student**  
 ## [**Guru Nanak Dev Engineering College**](https://www.gndec.ac.in/)  
 
