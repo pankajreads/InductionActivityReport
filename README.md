@@ -1,8 +1,9 @@
-**Pankaj Kumar**  
-**BTech CSE Student**  
-**Guru Nanak Dev Engineering College**  
+# [**Pankaj Kumar**](https://www.linkedin.com/in/pankaj-kumar-20186a303/) 
+![Pankaj](‪https://instagram.fluh1-3.fna.fbcdn.net/v/t51.2885-19/402519703_864678195058333_4816934405527221366_n.jpg?_nc_ht=instagram.fluh1-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dO3vJN0roUEQ7kNvgGuElM_&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYAhqK74Xwo-SflIneFoa8XZqH1RQKcEBjyOUI1D8bymAA&oe=66A11FAA&_nc_sid=8f1549)
+## **BTech CSE Student**  
+## [**Guru Nanak Dev Engineering College**](https://www.gndec.ac.in/)  
 
-## Induction Activity Report  
+### Induction Activity Report  
 
 | Date         | Guest                     | Lesson                                                                                   |
 |:------------:|:-------------------------:|:----------------------------------------------------------------------------------------:|
@@ -18,7 +19,7 @@
 | 15 July 2024 | **Dr. Randhir Singh**         | In this brief session with Randhir Sir, he taught us how to create a **GitHub** page. |
 |              | **Dr. Pyare Lal**             | A humble sage imparts wisdom through poetry, urging us to believe in our potential. He teaches that with determination, any dream is achievable. Embrace your passions, maintain positivity, and view challenges as opportunities for growth. Failure is universal, but resilience leads to success. Choose hope over despair, and prioritize self-improvement. Your journey to greatness begins within. |
 |              | **Mr. Sony Goyal**            | Mr. Sony Goyal, a remarkable educator, delivered a powerful session on effective planning and personal excellence in engineering education. He emphasized the importance of **giving your 100%** to every task, encouraged us to view the "science stream" more broadly rather than using the term "non-medical," and advised focusing on one task at a time for the best results. Mr. Goyal urged us to learn with both mind and heart, and to ask questions without hesitation whenever in doubt. His passionate and engaging approach left a lasting impact, inspiring students to embrace academic excellence and personal growth with renewed enthusiasm. |
-|              | **Mr. Pancham**               | He taught us about non-verbal communication, body language, and behavior, encouraging us to ask questions on the topic. His expertise in understanding facial expressions, gestures, and the subtleties of effective communication was impressive. Mr. Pancham's interactive approach made the learning process engaging and relatable, offering practical insights into interpreting non-verbal cues and enhancing our grasp of interpersonal dynamics. He also shared inspiring anecdotes and lessons from his leadership roles in various societies. Later, he introduced us to the **SAE Club**, which offers creative and exhilarating activities that left me truly amazed. |
+|              | **Mr. Pancham**               | He taught us about non-verbal communication, body language, and behavior. His expertise in understanding facial expressions, gestures, and the subtleties of effective communication was impressive. Mr. Pancham's interactive approach made the learning process engaging and relatable, offering practical insights into interpreting non-verbal cues and enhancing our grasp of interpersonal dynamics. He also shared inspiring anecdotes and lessons from his leadership roles in various societies. Later, he introduced us to the **SAE Club**, which offers creative and exhilarating activities that left me truly amazed. |
 | 16 July 2024 | **A.P Nisha Masson and Manjot Kaur** | A quiz took place between **CSD** and **CSE** based on English language. |
 |              | **A.P Jasmine Kaur** | A quiz took place based on general knowledge. |
 | 17 July 2024 | **A.P Sukhminder Singh (Math)** | Sir asked why math classes are included in our induction program instead of other subjects. A student responded that math is relevant to every subject. The instructor then gave us a problem based on differentiation to solve. While checking our solutions, he inquired about our names and previous schools. After that, he gave us a break. Once we returned, we solved additional problems, and he assigned some problems as homework. |
