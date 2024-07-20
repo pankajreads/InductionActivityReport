@@ -1,5 +1,7 @@
 # [**Pankaj Kumar**](https://www.linkedin.com/in/pankaj-kumar-20186a303/) 
-<img src="pankaj.png" alt="How am I looking" width="230" height="200">  
+<a href="https://www.instagram.com/pankajreads/">
+<img src="pankaj.png" title = "How am I looking ?" width="230" height="200">  
+</a>  
 
 ## **BTech CSE Student**    
 ## [**Guru Nanak Dev Engineering College**](https://www.gndec.ac.in/)  
